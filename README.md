@@ -39,9 +39,9 @@ This project is a case study analyzing Bright TV's viewership and ratings data t
 5. **Project Planning** — mapped out project phases in Miro, tracked timeline via Gantt charts in Canva
 
 ## 📈 Key Findings
-- [Insight 1 — e.g., peak viewership times]
-- [Insight 2 — e.g., top-performing genres/programs]
-- [Insight 3 — e.g., audience drop-off patterns]
+- [Insight 1 —  peak viewership times]
+- [Insight 2 —  top-performing Tv Channels/programs]
+- [Insight 3 — audience drop-off patterns]
 
 ## ✅ Results / Impact
 - [e.g., Identified X% increase in viewership during specific time slots]
