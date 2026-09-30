@@ -57,7 +57,7 @@ This project is a case study analyzing Bright TV's viewership and ratings data t
 ```
 
 ## 🔗 Links
-- Loveable 
+- Loveable [https://tvtrackr-analytics.lovable.app]
 
 ## 👤 Author(s)
 [TOY MOGOHLWANE /]
