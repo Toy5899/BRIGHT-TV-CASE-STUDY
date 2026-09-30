@@ -57,10 +57,7 @@ This project is a case study analyzing Bright TV's viewership and ratings data t
 ```
 
 ## 🔗 Links
-- Power BI Dashboard: [link]
-- Data Studio Dashboard: [link]
-- Miro Board: [link]
-- Canva Gantt Chart: [link]
+- Loveable 
 
 ## 👤 Author(s)
 [TOY MOGOHLWANE /]
